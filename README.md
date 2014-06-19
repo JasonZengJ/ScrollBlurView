@@ -6,5 +6,8 @@
 
 ##Effect
 ---
+![Screen shot](https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/effect1.png)
 
+![Screen shot](https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/effect2.png)
 
+![Screen shot](https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/effect3.png)
