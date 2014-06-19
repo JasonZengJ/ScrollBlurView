@@ -6,8 +6,9 @@
 
 ##Effect
 ---
-![Screen shot](https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/effect1.png)
+<img src="https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/effect1.png" alt="ScrollBlurView demo" height=500  title="ScrollBlurView demo" style="display:block;">
+<br/>
+<img src="https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/effect2.png" alt="ScrollBlurView demo" height=500  title="ScrollBlurView demo" style="display:block;">
 
-![Screen shot](https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/effect2.png)
+<img src="https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/effect3.png" alt="ScrollBlurView demo" height=500  title="ScrollBlurView demo" style="display:block;">
 
-![Screen shot](https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/effect3.png)
