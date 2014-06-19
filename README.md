@@ -4,7 +4,7 @@ introduction
   
   
 
-Effect
+Effects
 =======================
 <img src="https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/effect1.png" alt="ScrollBlurView demo" height=500  title="ScrollBlurView demo" style="display:block;">
 <br/>
