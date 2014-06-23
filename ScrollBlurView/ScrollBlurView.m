@@ -53,7 +53,6 @@
         [_swipeDownBtn addGestureRecognizer:panGR];
         
         [self addSubview:_swipeDownBtn];
-        [self addObserver:self forKeyPath:@"frame" options:NSKeyValueObservingOptionNew context:nil];
         
     }
     return self;
