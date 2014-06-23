@@ -6,11 +6,11 @@ introduction
 
 Effects
 =======================
-###GIF Image
+####GIF Image
 <img src="https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/demo.gif" alt="ScrollBlurView demo" height=500  title="ScrollBlurView demo" style="display:block;">
 
 
-###HD PNG Images
+####HD PNG Images
 <img src="https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/effect1.png" alt="ScrollBlurView demo" height=500  title="ScrollBlurView demo" style="display:block;">
 <br/>
 <img src="https://raw.githubusercontent.com/JasonZengJ/ScrollBlurView/master/effect2.png" alt="ScrollBlurView demo" height=500  title="ScrollBlurView demo" style="display:block;">
